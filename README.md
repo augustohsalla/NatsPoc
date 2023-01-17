@@ -24,3 +24,6 @@ On Visual Studio, Run the NatsSubscriber and then the NatsPublisher.
 
 Both will connect to the NATS local server, listen and publish some message.
 
+## Docs
+[NATS myself discovery](https://docs.google.com/document/d/1NS33yRNLtfb2vD40GVQhuYbZ0_Vk4zAopJQnW8Rhg1E/edit)
+[Architecture Doc - kick off for study NATS](https://github.com/clinician-nexus/app-architecture-documentation/blob/main/services/communication/protocols/nats.md)
