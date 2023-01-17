@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "CN.MPT.NATS_CLI_POC": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

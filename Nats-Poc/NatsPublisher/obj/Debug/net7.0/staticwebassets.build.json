@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5QW4coQOOPEKjri2PYY+Pf++rNgzsiBlD4KC1ckA9v4=",
+  "Source": "NatsPublisher",
+  "BasePath": "_content/NatsPublisher",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QlUNy+4H1pMo66YqUX50XRfdWjszxw2vEb4nkL+imCJze0HrsmiGh0y16xBnZLxsaGFYipIG7WJvllNglp0CkA==",
+  "success": true,
+  "projectFilePath": "/Users/augustotarmac/Downloads/tarmac/SulivanCotterNATSPOC/Nats-Poc/NatsSubscriber/NatsSubscriber.csproj",
+  "expectedPackageFiles": [
+    "/Users/augustotarmac/.nuget/packages/nats.client/1.0.2/nats.client.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

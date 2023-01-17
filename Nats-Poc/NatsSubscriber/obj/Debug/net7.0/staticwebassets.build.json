@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bKpCIi2oXJQbTcC4oJxgXJnOXp1d4kLnhr1xtzk+X0w=",
+  "Source": "NatsSubscriber",
+  "BasePath": "_content/NatsSubscriber",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
