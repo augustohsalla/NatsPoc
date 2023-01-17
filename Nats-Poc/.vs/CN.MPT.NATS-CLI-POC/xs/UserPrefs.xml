@@ -1,7 +1,5 @@
 ﻿<Properties StartupConfiguration="{A9DF579A-5DC3-4DFB-8291-265AAF20DAE4}|https">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MonoDevelop.Ide.Workbench ActiveDocument="../Subscriber/Program.cs">
     <Files>
       <File FileName="../Publisher/Program.cs" Line="19" Column="24" />
@@ -27,6 +25,7 @@
   <MonoDevelop.Ide.ItemProperties.NatsSubscriber FirstBuild="True" />
   <DisabledProjects>
     <String>../Subscriber/Subscriber.csproj</String>
+    <String>../Publisher/Publisher.csproj</String>
   </DisabledProjects>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

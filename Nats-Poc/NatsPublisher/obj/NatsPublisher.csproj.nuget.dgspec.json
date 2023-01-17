@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/augustotarmac/Downloads/tarmac/SulivanCotterNATSPOC/Nats-Poc/NatsPublisher/NatsPublisher.csproj": {}
+    "/Users/augustotarmac/Downloads/tarmac/SulivanCotterNATSPOC/NatsPoc/Nats-Poc/NatsPublisher/NatsPublisher.csproj": {}
   },
   "projects": {
-    "/Users/augustotarmac/Downloads/tarmac/SulivanCotterNATSPOC/Nats-Poc/NatsPublisher/NatsPublisher.csproj": {
+    "/Users/augustotarmac/Downloads/tarmac/SulivanCotterNATSPOC/NatsPoc/Nats-Poc/NatsPublisher/NatsPublisher.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/augustotarmac/Downloads/tarmac/SulivanCotterNATSPOC/Nats-Poc/NatsPublisher/NatsPublisher.csproj",
+        "projectUniqueName": "/Users/augustotarmac/Downloads/tarmac/SulivanCotterNATSPOC/NatsPoc/Nats-Poc/NatsPublisher/NatsPublisher.csproj",
         "projectName": "NatsPublisher",
-        "projectPath": "/Users/augustotarmac/Downloads/tarmac/SulivanCotterNATSPOC/Nats-Poc/NatsPublisher/NatsPublisher.csproj",
+        "projectPath": "/Users/augustotarmac/Downloads/tarmac/SulivanCotterNATSPOC/NatsPoc/Nats-Poc/NatsPublisher/NatsPublisher.csproj",
         "packagesPath": "/Users/augustotarmac/.nuget/packages/",
-        "outputPath": "/Users/augustotarmac/Downloads/tarmac/SulivanCotterNATSPOC/Nats-Poc/NatsPublisher/obj/",
+        "outputPath": "/Users/augustotarmac/Downloads/tarmac/SulivanCotterNATSPOC/NatsPoc/Nats-Poc/NatsPublisher/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/augustotarmac/.nuget/NuGet/NuGet.Config"

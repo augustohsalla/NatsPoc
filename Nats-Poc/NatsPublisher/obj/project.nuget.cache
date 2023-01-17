@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "udSaeLzumrRt1TJd4eD+sp2K/oYnjf45K4woAvgT1TLkX5sQSYZUdyPFGgHceVFoycLQAvCSaARFAQ/QP8sRWQ==",
+  "dgSpecHash": "Qs60NPp+wyOnVnCKNJTsjP6hJh9LcroZhQa91mlRL7dflt3RWUdyOLmog7zBs26WgS+68qqIuwtQBbkUSy0ulA==",
   "success": true,
-  "projectFilePath": "/Users/augustotarmac/Downloads/tarmac/SulivanCotterNATSPOC/Nats-Poc/NatsPublisher/NatsPublisher.csproj",
+  "projectFilePath": "/Users/augustotarmac/Downloads/tarmac/SulivanCotterNATSPOC/NatsPoc/Nats-Poc/NatsPublisher/NatsPublisher.csproj",
   "expectedPackageFiles": [
     "/Users/augustotarmac/.nuget/packages/nats.client/1.0.2/nats.client.1.0.2.nupkg.sha512"
   ],
